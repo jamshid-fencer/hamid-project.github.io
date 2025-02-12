@@ -131,9 +131,9 @@ button {
 @media (max-width: 520px){
   .header{
     height: 1080px;
-    width: 467px;
+    width: 59vh;
     background-repeat: no-repeat;
-    background-size: 464px 1100px;
+    background-size: 496px 1100px;
     background-position: center;
     background-image: url(https://www.fonewalls.com/wp-content/uploads/Minimal-Background-HD-Wallpaper-081.jpg) !important;
   }
