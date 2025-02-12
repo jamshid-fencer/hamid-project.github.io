@@ -166,7 +166,7 @@ button {
 @media (max-width: 450px) {
   .header{
     height: 1080px;
-    width: 432px;
+    width: 440px;
     background-repeat: no-repeat;
     background-size: 450px 1100px;
     background-position: center;
